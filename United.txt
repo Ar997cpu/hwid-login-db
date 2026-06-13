@@ -28,3 +28,4 @@ USER|ham|1234
 KEY|MASTER-EPHX|unused
 KEY|MASTER-G9OB|used
 USER|veroxhex|2011
+KEY|MASTER-H1Q2|unused
